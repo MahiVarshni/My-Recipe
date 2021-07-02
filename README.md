@@ -1,4 +1,5 @@
-# My-Recipe   MASALA PASTA
+# My-Recipe   
+MASALA PASTA
 # ingredients
 1 cup penne pasta (or any pasta)
 water to boil
